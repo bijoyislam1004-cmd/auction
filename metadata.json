@@ -1,0 +1,6 @@
+{
+  "name": "IPL Mega Auction Live Hub",
+  "description": "Real-time multiplayer IPL Auction platform with dedicated Admin Auctioneer Panel, Franchise Owner Paddles, real-time bidding, squad limits, and live broadcast view.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
